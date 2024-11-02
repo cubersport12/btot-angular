@@ -1,0 +1,3526 @@
+[
+  {
+    "bootstrap": "accordion-body",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "accordion-button",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "accordion-collapse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "accordion-flush",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "accordion-header",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "accordion-item",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "collapsed",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-danger",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-dismissible",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-heading",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-info",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-link",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-primary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-secondary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-success",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "alert-warning",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fade",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "badge",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "badge-danger",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "badge-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "badge-info",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "badge-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "badge-pill",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "badge-primary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "badge-secondary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "badge-success",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "badge-warning",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-danger",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-info",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-primary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-secondary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-success",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-warning",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "border-white",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-*",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-2",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-3",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-bottom",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-circle",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-pill",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "rounded-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "breadcrumb",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "breadcrumb-item",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-group",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-group (nested)",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-group-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-group-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-group-vertical",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-toolbar",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "active button",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-block",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "checkbox as button",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "disabled button",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "radio as button",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-close",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-close-white",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-danger",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-info",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-link",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-outline-danger",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-outline-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-outline-info",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-outline-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-outline-primary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-outline-secondary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-outline-success",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-outline-warning",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-primary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-secondary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-success",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "btn-warning",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card bg-... text-...",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-body",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-columns",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-deck",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-footer",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-group",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-header",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-header-pills",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-header-tabs",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-img-bottom",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-img-overlay",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-img-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-link",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-subtitle",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-text",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "card-title",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h*.card-header",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "middle image",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "stretched-link",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel slide",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel-caption",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel-control-next",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel-control-next-icon",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel-control-prev",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel-control-prev-icon",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel-fade",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel-indicators",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel-inner",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "carousel-item",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "accordion",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "collapse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-body",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-danger",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-gradient",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-info",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-primary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-secondary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-success",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-transparent",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-warning",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bg-white",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "link-danger",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "link-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "link-info",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "link-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "link-primary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "link-secondary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "link-success",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "link-warning",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-danger",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-info",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-primary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-secondary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-success",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-warning",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-white",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "custom-checkbox",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "custom-file",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "custom-radio",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "custom-range",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "custom-select",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "custom-switch",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-block",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-flex",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-inline",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-inline-block",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-inline-flex",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-table",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-table-cell",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-grid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-lg-grid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-lg-table-row",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-md-grid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-md-table-row",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-print-...",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-print-flex",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-print-grid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-print-inline-flex",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-print-table",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-print-table-cell",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-print-table-row",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-sm-grid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-sm-table-row",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-table-row",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xl-grid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xl-table-row",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xxl-block",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xxl-flex",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xxl-grid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xxl-inline",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xxl-inline-block",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xxl-inline-flex",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xxl-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xxl-table",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xxl-table-cell",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-xxl-table-row",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown (split)",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-divider",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-header",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-item",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-item disabled",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-item-text",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-lg-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-lg-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-md-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-md-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-right",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-sm-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-sm-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-xl-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-menu-xl-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-toggle",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown-toggle-split",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropleft",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropright",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropup",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropup (split)",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "figure",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "figure-caption",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "figure-img",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-content-around",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-content-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-content-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-content-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-content-stretch",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-items-baseline",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-items-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-items-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-items-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-items-stretch",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-self-baseline",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-self-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-self-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-self-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-self-stretch",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-column",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-column-reverse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-grow-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-grow-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-nowrap",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-row",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-row-reverse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-shrink-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-shrink-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-wrap",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-wrap-reverse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-fill",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-lg-fill",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-md-fill",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-sm-fill",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xl-fill",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-column",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-column-reverse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-fill",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-grow-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-grow-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-nowrap",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-row",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-row-reverse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-shrink-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-shrink-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-wrap",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "flex-xxl-wrap-reverse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-around",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-between",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-around",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-between",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-evenly",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-lg-around",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-lg-between",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-lg-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-lg-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-lg-evenly",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-lg-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-md-around",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-md-between",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-md-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-md-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-md-evenly",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-md-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-sm-around",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-sm-between",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-sm-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-sm-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-sm-evenly",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-sm-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xl-around",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xl-between",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xl-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xl-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xl-evenly",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xl-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xxl-around",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xxl-between",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xxl-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xxl-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xxl-evenly",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "justify-content-xxl-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-first",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-last",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-lg-first",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-lg-last",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-md-first",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-md-last",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-sm-first",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-sm-last",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-xl-first",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-xl-last",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-xxl-first",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-xxl-last",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "checkbox",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dropdown",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "input-group",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "input-group-append",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "input-group-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "input-group-prepend",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "input-group-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "radio",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "segmented buttons",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form (full example)",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-form-label",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-form-label-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-form-label-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "disabled items",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form using the grid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-check",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-check-inline",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-check-input",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-check-label",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-control",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-control-color",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-control-file",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-control-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-control-plaintext",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-control-range",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-control-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-floating",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-group",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-inline",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-label",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-select",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-select-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-select-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-switch",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "form-text",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "input-group-text",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "is-invalid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "is-valid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "readonly",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "valid-feedback",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "valid-tooltip",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-*",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-# (<576px)",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-10",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-11",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-12",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-2",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-3",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-4",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-5",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-6",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-7",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-8",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-9",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-lg-# (≥992px)",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-lg-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-md-# (≥768px)",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-md-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-sm-# (≥576px)",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-sm-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-xl-# (≥1200px)",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-xl-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "col-xxl-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "container",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "container-fluid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "container-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "contanier-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "contanier-md",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "contanier-xl",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "contanier-xxl",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "g-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "g-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "g-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "g-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "g-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "g-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gap-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gap-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gap-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gap-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gap-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gap-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gx-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "gy-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nested columns",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "no-gutters",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "offset-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "offset-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "offset-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "offset-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "offset-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "order-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-lg-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-lg-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-md-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-md-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-sm-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-sm-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-xl-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-xl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-xxl-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "row-cols-xxl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "img-fluid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "img-thumbnail",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "jumbotron",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "jumbotron-fluid",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group with badges",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group with d-flex",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item active",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item disabled",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item-action",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item-danger",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item-info",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item-primary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item-secondary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item-success",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item-warning",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-flush",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-horizontal",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-horizontal-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-horizontal-md",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-horizontal-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-horizontal-xl",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-horizontal-xxl",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-group-item",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-flex align-self-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-flex align-self-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "d-flex align-self-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "media",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nested media",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "right aligned media",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "close",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "embed-responsive",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "initialism",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "invisible",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "overflow-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "overflow-hidden",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "overflow-scroll",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "overflow-visible",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pe-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pe-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "shadow",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "shadow-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "shadow-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "shadow-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "sr-only",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "sr-only-focusable",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "visible",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "visually-hidden",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "visually-hidden-focusable",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal fade",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-dialog-centered",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-xl",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-body",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-content",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-dialog",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-dialog-scrollable",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-footer",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-fullscreen",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-fullscreen-lg-down",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-fullscreen-md-down",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-fullscreen-sm-down",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-fullscreen-xl-down",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-fullscreen-xxl-down",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-header",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-static",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "modal-title",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "collapse navbar-collapse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav-item",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav-link",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar fixed-bottom",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar fixed-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar sticky-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar with form",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-brand",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-collapse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-dark bg-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-expand-*",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-expand-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-expand-md",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-expand-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-expand-xl",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-expand-xxl",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-nav",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-text",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-toggler",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "navbar-toggler-icon",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav flex-column",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav justify-content-*",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav with flex utils",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav-fill",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav-justified",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav-pills",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav-pills with dropdown",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav-tabs",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav-tabs with dropdown",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "nav.nav",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "tab-content",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "tab-pane",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ul.nav",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "page-item active",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "page-item disabled",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pagination",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pagination-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pagination-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dismissible popover",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "popovers",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "align-*",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bottom-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bottom-100",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "bottom-50",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "clearfix",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "end-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "end-100",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "end-50",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fixed-bottom",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fixed-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-left",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-right",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-lg-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-lg-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-lg-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-md-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-md-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-md-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-sm-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-sm-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-sm-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-xl-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-xl-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-xl-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-xxl-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-xxl-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "float-xxl-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "position-absolute",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "position-relative",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "position-static",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "start-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "start-100",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "start-50",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "sticky-lg-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "sticky-md-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "sticky-sm-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "sticky-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "sticky-xl-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "top-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "top-100",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "top-50",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "translate-middle",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "multiple progress-bar",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "progress",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "progress-bar",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "progress-bar bg-*",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "progress-bar with height",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "progress-bar with label",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "progress-bar-animated",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "progress-bar-striped",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "progress-bar-striped bg-*",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "data-spy",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h-100",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h-25",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h-50",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h-75",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mh-100",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "min-vw-100",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mw-100",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "w-100",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "w-100",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "w-25",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "w-50",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "w-75",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "w-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-lg-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-md-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-n#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-sm-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-xl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "m-xxl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-lg-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-md-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-sm-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-xl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mb-xxl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-lg-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-md-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-sm-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-xl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "me-xxl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ml-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mr-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-lg-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-md-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-sm-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-xl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ms-xxl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-lg-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-md-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-sm-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-xl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mt-xxl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-lg-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-md-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-sm-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-xl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "mx-xxl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-lg-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-md-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-sm-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-xl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "my-xxl-auto",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "p-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "p-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "p-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "p-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "p-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "p-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pb-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pb-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pb-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pb-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pb-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pb-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pb-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pe-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pe-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pe-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pe-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pe-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pe-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pl-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pr-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ps-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ps-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ps-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ps-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ps-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "ps-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pt-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pt-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pt-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pt-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pt-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pt-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "pt-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "px-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "px-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "px-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "px-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "px-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "px-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "px-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "py-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "py-1 / py-#",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "py-lg-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "py-md-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "py-sm-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "py-xl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "py-xxl-0",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "spinner-border",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "spinner-border text-*",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "spinner-border-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "spinner-grow",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "spinner-grow text-*",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "spinner-grow-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "caption-top",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-responsive",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-active",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-bordered",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-borderless",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-danger",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-hover",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-info",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-primary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-reflow",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-responsive-xxl",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-secondary",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-striped",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-success",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "table-warning",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "thead-dark",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "thead-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "font-italic",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "font-weight-bold",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "font-weight-bolder",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "font-weight-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "font-weight-lighter",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "font-weight-normal",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-left",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-right",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-black-50",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-body",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-capitalize",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-decoration-none",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-hide",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-justify",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-lowercase",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-monospace",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-muted",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-nowrap",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-truncate",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-uppercase",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-white-50",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "toast-body",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "toast-header",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "toast",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "tooltip",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "blockquote",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "blockquote-footer",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "blockquote-reverse",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "display-# (1-4)",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "display-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "display-2",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "display-3",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "display-4",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "display-5",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "display-6",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "dl-horizontal",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "font-monospace",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fs-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fs-2",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fs-3",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fs-4",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fs-4",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fs-5",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fs-6",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fs-lg-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fs-md-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fs-sm-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fst-italic",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fst-normal",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fw-bolder",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fw-light",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fw-lighter",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "fw-normal",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h2",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h3",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h4",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h5",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "h6",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "lead",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "lh-1",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "lh-base",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "lh-lg",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "lh-sm",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-inline",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "list-unstyled",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-break",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-decoration-line-through",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-decoration-underline",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-lg-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-lg-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-lg-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-md-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-md-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-md-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-reset",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-sm-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-sm-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-sm-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-wrap",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-xl-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-xl-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-xl-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-xl-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-xl-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-xl-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-xl-start",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-xxl-center",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-xxl-end",
+    "tailwind": ""
+  },
+  {
+    "bootstrap": "text-xxl-start",
+    "tailwind": ""
+  }
+]
