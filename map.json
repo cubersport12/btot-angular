@@ -117,15 +117,15 @@
   },
   {
     "bootstrap": "border",
-    "tailwind": ""
+    "tailwind": "border"
   },
   {
     "bootstrap": "border-0",
-    "tailwind": ""
+    "tailwind": "border-0"
   },
   {
     "bootstrap": "border-1",
-    "tailwind": ""
+    "tailwind": "border-1"
   },
   {
     "bootstrap": "border-danger",
@@ -165,31 +165,27 @@
   },
   {
     "bootstrap": "rounded",
-    "tailwind": ""
-  },
-  {
-    "bootstrap": "rounded-*",
-    "tailwind": ""
+    "tailwind": "rounded"
   },
   {
     "bootstrap": "rounded-0",
-    "tailwind": ""
+    "tailwind": "rounded-none"
   },
   {
     "bootstrap": "rounded-1",
-    "tailwind": ""
+    "tailwind": "rounded-2xl"
   },
   {
     "bootstrap": "rounded-2",
-    "tailwind": ""
+    "tailwind": "rounded-3xl"
   },
   {
     "bootstrap": "rounded-3",
-    "tailwind": ""
+    "tailwind": "rounded-4xl"
   },
   {
     "bootstrap": "rounded-bottom",
-    "tailwind": ""
+    "tailwind": "rounded-b"
   },
   {
     "bootstrap": "rounded-circle",
@@ -629,27 +625,27 @@
   },
   {
     "bootstrap": "d-block",
-    "tailwind": ""
+    "tailwind": "block"
   },
   {
     "bootstrap": "d-flex",
-    "tailwind": ""
+    "tailwind": "flex"
   },
   {
     "bootstrap": "d-inline",
-    "tailwind": ""
+    "tailwind": "inline"
   },
   {
     "bootstrap": "d-inline-block",
-    "tailwind": ""
+    "tailwind": "inline-block"
   },
   {
     "bootstrap": "d-inline-flex",
-    "tailwind": ""
+    "tailwind": "inline-flex"
   },
   {
     "bootstrap": "d-none",
-    "tailwind": ""
+    "tailwind": "hidden"
   },
   {
     "bootstrap": "d-table",
@@ -885,107 +881,107 @@
   },
   {
     "bootstrap": "align-content-around",
-    "tailwind": ""
+    "tailwind": "content-around"
   },
   {
     "bootstrap": "align-content-center",
-    "tailwind": ""
+    "tailwind": "content-center"
   },
   {
     "bootstrap": "align-content-end",
-    "tailwind": ""
+    "tailwind": "content-end"
   },
   {
     "bootstrap": "align-content-start",
-    "tailwind": ""
+    "tailwind": "content-start"
   },
   {
     "bootstrap": "align-content-stretch",
-    "tailwind": ""
+    "tailwind": "content-stretch"
   },
   {
     "bootstrap": "align-items-baseline",
-    "tailwind": ""
+    "tailwind": "items-baseline"
   },
   {
     "bootstrap": "align-items-center",
-    "tailwind": ""
+    "tailwind": "items-center"
   },
   {
     "bootstrap": "align-items-end",
-    "tailwind": ""
+    "tailwind": "items-end"
   },
   {
     "bootstrap": "align-items-start",
-    "tailwind": ""
+    "tailwind": "items-start"
   },
   {
     "bootstrap": "align-items-stretch",
-    "tailwind": ""
+    "tailwind": "items-stretch"
   },
   {
     "bootstrap": "align-self-baseline",
-    "tailwind": ""
+    "tailwind": "self-baseline"
   },
   {
     "bootstrap": "align-self-center",
-    "tailwind": ""
+    "tailwind": "self-center"
   },
   {
     "bootstrap": "align-self-end",
-    "tailwind": ""
+    "tailwind": "self-end"
   },
   {
     "bootstrap": "align-self-start",
-    "tailwind": ""
+    "tailwind": "self-start"
   },
   {
     "bootstrap": "align-self-stretch",
-    "tailwind": ""
+    "tailwind": "self-stretch"
   },
   {
     "bootstrap": "flex-column",
-    "tailwind": ""
+    "tailwind": "flex-col"
   },
   {
     "bootstrap": "flex-column-reverse",
-    "tailwind": ""
+    "tailwind": "flex-col-reverse"
   },
   {
     "bootstrap": "flex-grow-0",
-    "tailwind": ""
+    "tailwind": "grow-0"
   },
   {
     "bootstrap": "flex-grow-1",
-    "tailwind": ""
+    "tailwind": "grow"
   },
   {
     "bootstrap": "flex-nowrap",
-    "tailwind": ""
+    "tailwind": "flex-nowrap"
   },
   {
     "bootstrap": "flex-row",
-    "tailwind": ""
+    "tailwind": "flex-row"
   },
   {
     "bootstrap": "flex-row-reverse",
-    "tailwind": ""
+    "tailwind": "flex-row-reverse"
   },
   {
     "bootstrap": "flex-shrink-0",
-    "tailwind": ""
+    "tailwind": "flex-shrink-0"
   },
   {
     "bootstrap": "flex-shrink-1",
-    "tailwind": ""
+    "tailwind": "flex-shrink"
   },
   {
     "bootstrap": "flex-wrap",
-    "tailwind": ""
+    "tailwind": "flex-wrap"
   },
   {
     "bootstrap": "flex-wrap-reverse",
-    "tailwind": ""
+    "tailwind": "flex-wrap-reverse"
   },
   {
     "bootstrap": "flex-fill",
@@ -1057,43 +1053,35 @@
   },
   {
     "bootstrap": "justify-content-around",
-    "tailwind": ""
+    "tailwind": "content-around"
   },
   {
     "bootstrap": "justify-content-between",
-    "tailwind": ""
+    "tailwind": "content-between"
   },
   {
     "bootstrap": "justify-content-center",
-    "tailwind": ""
+    "tailwind": "content-center"
   },
   {
     "bootstrap": "justify-content-end",
-    "tailwind": ""
+    "tailwind": "content-end"
   },
   {
     "bootstrap": "justify-content-start",
-    "tailwind": ""
+    "tailwind": "content-start"
   },
   {
     "bootstrap": "justify-content-around",
-    "tailwind": ""
+    "tailwind": "content-around"
   },
   {
     "bootstrap": "justify-content-between",
-    "tailwind": ""
-  },
-  {
-    "bootstrap": "justify-content-center",
-    "tailwind": ""
-  },
-  {
-    "bootstrap": "justify-content-end",
-    "tailwind": ""
+    "tailwind": "content-between"
   },
   {
     "bootstrap": "justify-content-evenly",
-    "tailwind": ""
+    "tailwind": "content-evenly"
   },
   {
     "bootstrap": "justify-content-lg-around",
@@ -1169,7 +1157,7 @@
   },
   {
     "bootstrap": "justify-content-start",
-    "tailwind": ""
+    "tailwind": "content-start"
   },
   {
     "bootstrap": "justify-content-xl-around",
@@ -1220,24 +1208,20 @@
     "tailwind": ""
   },
   {
-    "bootstrap": "order-#",
-    "tailwind": ""
-  },
-  {
     "bootstrap": "order-0",
-    "tailwind": ""
+    "tailwind": "order-0"
   },
   {
     "bootstrap": "order-1",
-    "tailwind": ""
+    "tailwind": "order-1"
   },
   {
     "bootstrap": "order-first",
-    "tailwind": ""
+    "tailwind": "order-first"
   },
   {
     "bootstrap": "order-last",
-    "tailwind": ""
+    "tailwind": "order-last"
   },
   {
     "bootstrap": "order-lg-0",
@@ -1409,7 +1393,7 @@
   },
   {
     "bootstrap": "form-group",
-    "tailwind": ""
+    "tailwind": "form-group"
   },
   {
     "bootstrap": "form-inline",
@@ -1465,14 +1449,6 @@
   },
   {
     "bootstrap": "col",
-    "tailwind": ""
-  },
-  {
-    "bootstrap": "col-*",
-    "tailwind": ""
-  },
-  {
-    "bootstrap": "col-# (<576px)",
     "tailwind": ""
   },
   {
