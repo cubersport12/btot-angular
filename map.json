@@ -1401,7 +1401,7 @@
   },
   {
     "bootstrap": "form-label",
-    "tailwind": ""
+    "tailwind": "mb-2"
   },
   {
     "bootstrap": "form-select",
@@ -1673,7 +1673,7 @@
   },
   {
     "bootstrap": "offset-#",
-    "tailwind": ""
+    "tailwind": "ml-#"
   },
   {
     "bootstrap": "offset-0",
@@ -1697,7 +1697,7 @@
   },
   {
     "bootstrap": "row",
-    "tailwind": ""
+    "tailwind": "flex gap-1 item-center"
   },
   {
     "bootstrap": "row-cols-1",
@@ -1893,19 +1893,19 @@
   },
   {
     "bootstrap": "overflow-auto",
-    "tailwind": ""
+    "tailwind": "overflow-auto"
   },
   {
     "bootstrap": "overflow-hidden",
-    "tailwind": ""
+    "tailwind": "overflow-hidden"
   },
   {
     "bootstrap": "overflow-scroll",
-    "tailwind": ""
+    "tailwind": "overflow-scroll"
   },
   {
     "bootstrap": "overflow-visible",
-    "tailwind": ""
+    "tailwind": "overflow-visible"
   },
   {
     "bootstrap": "pe-auto",
@@ -2329,15 +2329,15 @@
   },
   {
     "bootstrap": "position-absolute",
-    "tailwind": ""
+    "tailwind": "absolute"
   },
   {
     "bootstrap": "position-relative",
-    "tailwind": ""
+    "tailwind": "relative"
   },
   {
     "bootstrap": "position-static",
-    "tailwind": ""
+    "tailwind": "static"
   },
   {
     "bootstrap": "start-0",
@@ -2429,23 +2429,23 @@
   },
   {
     "bootstrap": "h-100",
-    "tailwind": ""
+    "tailwind": "h-full"
   },
   {
     "bootstrap": "h-25",
-    "tailwind": ""
+    "tailwind": "h-1/4"
   },
   {
     "bootstrap": "h-50",
-    "tailwind": ""
+    "tailwind": "h-1/2"
   },
   {
     "bootstrap": "h-75",
-    "tailwind": ""
+    "tailwind": "h-3/4"
   },
   {
     "bootstrap": "h-auto",
-    "tailwind": ""
+    "tailwind": "h-auto"
   },
   {
     "bootstrap": "mh-100",
@@ -2461,35 +2461,31 @@
   },
   {
     "bootstrap": "w-100",
-    "tailwind": ""
-  },
-  {
-    "bootstrap": "w-100",
-    "tailwind": ""
+    "tailwind": "w-full"
   },
   {
     "bootstrap": "w-25",
-    "tailwind": ""
+    "tailwind": "w-1/4"
   },
   {
     "bootstrap": "w-50",
-    "tailwind": ""
+    "tailwind": "w-1/2"
   },
   {
     "bootstrap": "w-75",
-    "tailwind": ""
+    "tailwind": "w-3/4"
   },
   {
     "bootstrap": "w-auto",
-    "tailwind": ""
+    "tailwind": "w-auto"
   },
   {
     "bootstrap": "m-#",
-    "tailwind": ""
+    "tailwind": "m-#"
   },
   {
     "bootstrap": "m-auto",
-    "tailwind": ""
+    "tailwind": "m-auto"
   },
   {
     "bootstrap": "m-lg-0",
@@ -2629,11 +2625,11 @@
   },
   {
     "bootstrap": "ml-#",
-    "tailwind": ""
+    "tailwind": "ml-#"
   },
   {
     "bootstrap": "mr-#",
-    "tailwind": ""
+    "tailwind": "mr-#"
   },
   {
     "bootstrap": "ms-auto",
@@ -2681,7 +2677,7 @@
   },
   {
     "bootstrap": "mt-#",
-    "tailwind": ""
+    "tailwind": "mt-#"
   },
   {
     "bootstrap": "mt-auto",
@@ -2825,7 +2821,7 @@
   },
   {
     "bootstrap": "p-#",
-    "tailwind": ""
+    "tailwind": "p-#"
   },
   {
     "bootstrap": "p-lg-0",
@@ -2849,11 +2845,11 @@
   },
   {
     "bootstrap": "pb-0",
-    "tailwind": ""
+    "tailwind": "pb-0"
   },
   {
     "bootstrap": "pb-#",
-    "tailwind": ""
+    "tailwind": "pb-#"
   },
   {
     "bootstrap": "pb-lg-0",
@@ -2901,11 +2897,11 @@
   },
   {
     "bootstrap": "pl-#",
-    "tailwind": ""
+    "tailwind": "pl-#"
   },
   {
     "bootstrap": "pr-#",
-    "tailwind": ""
+    "tailwind": "pr-#"
   },
   {
     "bootstrap": "ps-0",
@@ -2933,11 +2929,11 @@
   },
   {
     "bootstrap": "pt-0",
-    "tailwind": ""
+    "tailwind": "pt-0"
   },
   {
     "bootstrap": "pt-#",
-    "tailwind": ""
+    "tailwind": "pt-#"
   },
   {
     "bootstrap": "pt-lg-0",
@@ -3129,7 +3125,7 @@
   },
   {
     "bootstrap": "font-weight-bold",
-    "tailwind": ""
+    "tailwind": "font-bold"
   },
   {
     "bootstrap": "font-weight-bolder",
@@ -3145,15 +3141,15 @@
   },
   {
     "bootstrap": "font-weight-normal",
-    "tailwind": ""
+    "tailwind": "font-normal"
   },
   {
     "bootstrap": "text-center",
-    "tailwind": ""
+    "tailwind": "text-center"
   },
   {
     "bootstrap": "text-left",
-    "tailwind": ""
+    "tailwind": "text-left"
   },
   {
     "bootstrap": "text-right",
@@ -3396,10 +3392,6 @@
     "tailwind": ""
   },
   {
-    "bootstrap": "text-center",
-    "tailwind": ""
-  },
-  {
     "bootstrap": "text-decoration-line-through",
     "tailwind": ""
   },
@@ -3409,7 +3401,7 @@
   },
   {
     "bootstrap": "text-end",
-    "tailwind": ""
+    "tailwind": "text-end"
   },
   {
     "bootstrap": "text-lg-center",
@@ -3453,11 +3445,11 @@
   },
   {
     "bootstrap": "text-start",
-    "tailwind": ""
+    "tailwind": "text-start"
   },
   {
     "bootstrap": "text-wrap",
-    "tailwind": ""
+    "tailwind": "text-wrap"
   },
   {
     "bootstrap": "text-xl-center",
