@@ -1053,35 +1053,35 @@
   },
   {
     "bootstrap": "justify-content-around",
-    "tailwind": "content-around"
+    "tailwind": "justify-around"
   },
   {
     "bootstrap": "justify-content-between",
-    "tailwind": "content-between"
+    "tailwind": "justify-between"
   },
   {
     "bootstrap": "justify-content-center",
-    "tailwind": "content-center"
+    "tailwind": "justify-center"
   },
   {
     "bootstrap": "justify-content-end",
-    "tailwind": "content-end"
+    "tailwind": "justify-end"
   },
   {
     "bootstrap": "justify-content-start",
-    "tailwind": "content-start"
+    "tailwind": "justify-start"
   },
   {
     "bootstrap": "justify-content-around",
-    "tailwind": "content-around"
+    "tailwind": "justify-around"
   },
   {
     "bootstrap": "justify-content-between",
-    "tailwind": "content-between"
+    "tailwind": "justify-between"
   },
   {
     "bootstrap": "justify-content-evenly",
-    "tailwind": "content-evenly"
+    "tailwind": "justify-evenly"
   },
   {
     "bootstrap": "justify-content-lg-around",
